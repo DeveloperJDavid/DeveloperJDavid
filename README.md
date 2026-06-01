@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 <div align="center">  
-<a href="mailto:juandavid0222@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
-<a href="https://www.instagram.com/juan_david_02?igsh=cGNvMDFsMDVnZmRo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000"/></a>
-<a href="https://www.linkedin.com/in/juan-david-52b627413" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
+<a href="mailto:juandavid0222@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/juan_david_02?igsh=cGNvMDFsMDVnZmRo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.linkedin.com/in/juan-david-52b627413" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
 <br/>
 <br/>
 <table border="0" width="100%">
@@ -37,6 +37,16 @@
 </table>
 <br/>
 
+<div align="left">
+
+### 🌐 Idiomas
+<img src="https://img.shields.io/badge/Português-Avançado-000000?style=flat-square&logo=google-translate&logoColor=FFFFFF"/>  
+<img src="https://img.shields.io/badge/Espanhol-Avançado-000000?style=flat-square&logo=google-translate&logoColor=FFFFFF"/>  
+<img src="https://img.shields.io/badge/Inglês-Intermediário-000000?style=flat-square&logo=google-translate&logoColor=FFFFFF"/>
+<br/>
+<br/>
+</div>
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeveloperJDavid&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Node.js+%7C+React+%7C+Software+Engineering" />
@@ -56,5 +66,5 @@
 * **Programação de Soluções Computacionais** – Universidade São Judas Tadeu (2024)
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 </div>
