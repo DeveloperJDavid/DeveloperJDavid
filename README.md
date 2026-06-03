@@ -13,9 +13,6 @@
       <img src="https://github-readme-stats-three-virid-64.vercel.app/api/top-langs/?username=DeveloperJDavid&layout=compact&theme=transparent&icon_color=FFFFFF&text_color=FFFFFF&title_color=FFFFFF&locale=pt-br" alt="Top Langs" />
     </td>
     <td width="45%" align="left">
-      <strong>Em aprendizado:</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ciberseguranca/ciberseguranca-original.svg" width="40px" title="Cibersegurança" alt="Cibersegurança"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ia/ia-original.svg" width="40px" title="Inteligência Artificial" alt="IA"/>
       <br/><br/>
       <strong>Linguagens e Frameworks:</strong><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" title="HTML5"/>
