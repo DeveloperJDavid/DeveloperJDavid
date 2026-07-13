@@ -36,11 +36,12 @@ segurança da informação, inteligência artificial e engenharia de dados.
 <div align="left">
 
 - 🎓 Estudante de Engenharia de Software na Universidade São Judas Tadeu.
-- 💻 Desenvolvendo projetos web, backend e acadêmicos.
+- 💻 Desenvolvedor Backend em formação.
+- 📚 Desenvolvendo projetos acadêmicos e aplicações web.
 - 🔐 Estudando Cibersegurança e Segurança da Informação.
 - 🤖 Interessado em Inteligência Artificial e automação.
 - 📊 Aprendendo Engenharia de Dados e bancos de dados.
-- 🚀 Buscando evolução profissional como Desenvolvedor Júnior.
+- 🚀 Buscando oportunidades como Desenvolvedor Júnior.
 - 📍 São Paulo, Brasil.
 
 </div>
@@ -133,6 +134,14 @@ segurança da informação, inteligência artificial e engenharia de dados.
 
 ## 📌 Projetos acadêmicos e pessoais
 
+### 📚 Portal de estudos para concursos
+
+Plataforma web voltada para a preparação de candidatos a concursos públicos, com foco inicial nos concursos da Polícia Militar de São Paulo e Minas Gerais.
+
+**Tecnologias:** Ruby on Rails, PostgreSQL, HTML, CSS e JavaScript.
+
+---
+
 ### 🍦 Website da Sorveteria da Lua
 
 Desenvolvimento de um site institucional para apresentação de produtos, cardápio, localização e canais de atendimento.
@@ -141,27 +150,37 @@ Desenvolvimento de um site institucional para apresentação de produtos, cardá
 
 ---
 
-### 📚 Portal de estudos para concursos
+### 🔐 Cyber Incident Pipeline
 
-Projeto de uma plataforma de estudos voltada inicialmente para concursos da Polícia Militar de São Paulo e Minas Gerais.
+Projeto relacionado à coleta, organização e processamento de dados voltados para análise de incidentes de segurança.
 
-**Tecnologias:** Ruby on Rails, PostgreSQL, HTML, CSS e JavaScript.
-
----
-
-
+**Tecnologias:** Python e conceitos de Cibersegurança.
 
 ---
 
-### 🔐 Estudos em Cibersegurança
+### 🛡️ Data Masking
 
-Estudos e projetos relacionados a segurança web, análise de vulnerabilidades, proteção de dados, mascaramento de informações e resposta a incidentes.
+Projeto voltado para técnicas de mascaramento, proteção e tratamento de dados sensíveis.
+
+**Tecnologias:** Python e Segurança da Informação.
+
+---
+
+### 📊 Estudos em Engenharia de Dados
+
+Estudos, experimentos e projetos relacionados a tratamento de dados, pipelines, bancos de dados e ferramentas de engenharia de dados.
 
 ---
 
 ### 🤖 Projetos acadêmicos de Inteligência Artificial
 
-Desenvolvimento de atividades relacionadas a algoritmos genéticos, aprendizado de máquina, lógica de programação e criação de jogos.
+Desenvolvimento de atividades acadêmicas relacionadas a algoritmos genéticos, aprendizado de máquina, lógica de programação e automação.
+
+---
+
+### 🎮 Projetos acadêmicos de jogos
+
+Projetos desenvolvidos durante a graduação envolvendo programação orientada a objetos, lógica de jogos, inteligência artificial e interfaces.
 
 </div>
 
