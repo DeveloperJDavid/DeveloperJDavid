@@ -149,19 +149,7 @@ Projeto de uma plataforma de estudos voltada inicialmente para concursos da Pol�
 
 ---
 
-### 🏍️ Sistema de gestão de motos e multas
 
-Sistema para cadastro e gerenciamento de motos, trabalhadores, pagamentos, multas e relatórios semanais.
-
-**Tecnologias:** React, Node.js, banco de dados e APIs.
-
----
-
-### 💼 Sistema de gestão financeira
-
-Projeto de organização de clientes, empréstimos, pagamentos, contratos e relatórios administrativos.
-
-**Tecnologias:** Desenvolvimento web, banco de dados e automação.
 
 ---
 
